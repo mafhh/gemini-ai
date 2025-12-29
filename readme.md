@@ -1,6 +1,6 @@
-# ResolveCX AI – Sentiment & Reply Suggestion POC
+# InnovTeams AI – Sentiment & Reply Suggestion POC
 
-Built by **InnovTeams** as a proof of concept for the ResolveCX platform.
+Built by **InnovTeams** as a proof of concept for the SAAS platform.
 
 ## Features
 - Multi-tenant SaaS architecture
