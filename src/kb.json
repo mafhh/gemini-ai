@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is your refund policy?",
+    "answer": "Our refund policy allows you to request a refund within 30 days of purchase."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "You can reset your password using the 'Forgot Password' link on the login page."
+  },
+  {
+    "question": "Do you provide technical support?",
+    "answer": "Yes, we provide 24/7 technical support via chat and email."
+  }
+]
