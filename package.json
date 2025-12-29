@@ -1,7 +1,8 @@
 {
-  "name": "resolvecx-sentiment-poc",
+  "name": "gemini-ai-analysis",
   "version": "1.0.0",
-  "description": "ResolveCX AI POC - Sentiment Analysis using Gemini",
+  "description": "AI Analysis using Gemini",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
@@ -9,6 +10,8 @@
   "author": "Imran Ali",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2",
+    "uuid": "^9.0.1"
   }
 }
