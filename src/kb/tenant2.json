@@ -9,6 +9,54 @@
     {
       "question": "How do I contact sales?",
       "answer": "Email us at sales@betasolutions.com."
+    },
+    {
+      "question": "What are your business hours?",
+      "answer": "Our business hours are Monday through Friday, 9 AM to 6 PM EST."
+    },
+    {
+      "question": "How do I get technical support?",
+      "answer": "Submit a ticket through our support portal or email support@betasolutions.com. Response time is typically within 4 hours."
+    },
+    {
+      "question": "Do you offer training sessions?",
+      "answer": "Yes, we offer free onboarding training sessions and advanced training workshops for enterprise customers."
+    },
+    {
+      "question": "What is your data retention policy?",
+      "answer": "We retain your data for as long as your account is active. Deleted data is permanently removed after 30 days."
+    },
+    {
+      "question": "How do I set up two-factor authentication?",
+      "answer": "Go to Security Settings and enable 2FA. You can use an authenticator app or SMS verification."
+    },
+    {
+      "question": "Can I customize the dashboard?",
+      "answer": "Yes, you can customize widgets, rearrange panels, and create custom views based on your preferences."
+    },
+    {
+      "question": "What happens if I exceed my usage limits?",
+      "answer": "You'll receive notifications when approaching limits. You can upgrade your plan or purchase additional capacity."
+    },
+    {
+      "question": "Do you have a mobile app?",
+      "answer": "Yes, we have iOS and Android apps available in the App Store and Google Play Store."
+    },
+    {
+      "question": "How do I generate reports?",
+      "answer": "Navigate to the Reports section, select your desired metrics and date range, then click Generate Report."
+    },
+    {
+      "question": "What languages do you support?",
+      "answer": "Our platform is available in English, Spanish, French, German, and Japanese."
+    },
+    {
+      "question": "How do I archive old projects?",
+      "answer": "Go to Project Settings and select 'Archive Project'. Archived projects can be restored within 90 days."
+    },
+    {
+      "question": "What is your API rate limit?",
+      "answer": "Free plans have 100 requests per hour, Pro plans have 1,000 per hour, and Enterprise plans have custom limits."
     }
   ]
 }

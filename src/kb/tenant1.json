@@ -9,6 +9,54 @@
     {
       "question": "How do I reset my password?",
       "answer": "You can reset your password from account settings."
+    },
+    {
+      "question": "How can i refund?",
+      "answer": "There is no refund policy."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, PayPal, and bank transfers."
+    },
+    {
+      "question": "How do I upgrade my plan?",
+      "answer": "You can upgrade your plan from the billing section in your account dashboard."
+    },
+    {
+      "question": "What features are included in the premium plan?",
+      "answer": "The premium plan includes advanced analytics, priority support, API access, and unlimited storage."
+    },
+    {
+      "question": "How do I cancel my subscription?",
+      "answer": "You can cancel your subscription at any time from the billing settings. Your access will continue until the end of your current billing period."
+    },
+    {
+      "question": "Do you offer a free trial?",
+      "answer": "Yes, we offer a 14-day free trial with full access to all features. No credit card required."
+    },
+    {
+      "question": "How do I export my data?",
+      "answer": "You can export your data from the settings page. We support CSV, JSON, and Excel formats."
+    },
+    {
+      "question": "What is your uptime guarantee?",
+      "answer": "We guarantee 99.9% uptime. If we fall below this, you may be eligible for service credits."
+    },
+    {
+      "question": "How do I add team members?",
+      "answer": "Go to Team Settings and click 'Invite Member'. Enter their email address and assign their role."
+    },
+    {
+      "question": "What security measures do you have?",
+      "answer": "We use SSL encryption, two-factor authentication, regular security audits, and comply with SOC 2 Type II standards."
+    },
+    {
+      "question": "Can I integrate with other tools?",
+      "answer": "Yes, we offer integrations with popular tools like Slack, Zapier, and REST API access for custom integrations."
+    },
+    {
+      "question": "How do I change my email address?",
+      "answer": "You can update your email address from the Account Settings page. You'll need to verify the new email address."
     }
   ]
 }
